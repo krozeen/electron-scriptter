@@ -1,7 +1,10 @@
 {
   "name": "electron-scriptter",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
   "repository": "https://github.com/krozeen/electron-scriptter.git",
   "author": "krozeen <joaovotk@gmail.com>",
   "license": "MIT",
